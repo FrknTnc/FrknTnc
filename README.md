@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Furkan Tunç
+- 👀 I’m interested in image processing and mobile programming.
+- 🌱 I’m currently learning Android mobile programming.
+- 
