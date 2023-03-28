@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Furkan Tunç
-- 💻 Software Design Engineer at Turkish Aerospace Industries
 - 👀 I’m interested in image processing, data science and mobile programming.
